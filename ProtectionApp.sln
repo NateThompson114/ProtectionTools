@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectionApp", "ProtectionApp\ProtectionApp.csproj", "{143BFE1D-9AD0-490D-8917-DD26195CB7E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{143BFE1D-9AD0-490D-8917-DD26195CB7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143BFE1D-9AD0-490D-8917-DD26195CB7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143BFE1D-9AD0-490D-8917-DD26195CB7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143BFE1D-9AD0-490D-8917-DD26195CB7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5395F9D3-0495-432B-B34A-FBC45DD71674}
+	EndGlobalSection
+EndGlobal
